@@ -18,48 +18,14 @@ photorealistic, photo, real human photo, ultra realistic skin, 8k photo, horror 
 
 ---
 
-### OPENING - MASUK DESA
+### OPENING - MASUK DESA (storyboard sheet S01-S08, 1 gambar)
 
-**1. S01 - Gapura Desa Sore Gelap**
-> Keterangan (ID): Shot pembuka drone maju pelan ke gapura bambu desa saat sore gelap. Plang kayu miring bertuliskan DESA WARINGIN, kain putih berkibar. Dua pohon beringin raksasa menutup jalan setapak lama dengan sesajen basi di akarnya. Kabut tipis, suara jangkrik dan motor bebek menjauh. Mood: sepi, ditinggalkan, tidak welcome.
+> Keterangan (ID): Satu lembar storyboard 8 panel (4 kolom x 2 baris) untuk opening 0:00-1:40, gaya konsisten semua panel, Arga sama di tiap panel (21 tahun, rambut hitam pendek, hoodie). Urutan panel kiri-kanan, atas-bawah: S01 drone maju ke gapura bambu sore gelap + plang DESA WARINGIN miring + kain putih berkibar + beringin raksasa + sesajen basi → S02 POV boncengan motor malam, punggung tukang ojek + spion, jalan tanah bergelombang, lampu motor belah kabut → S03 close-up kaki Arga turun, bayar ojek, motor pergi, sepi mendadak tinggal jangkrik → S04 wide beringin kembar, tak ada angin tapi daun bergoyang sendiri, kain putih + dupa tipis, Arga masuk frame dari belakang → S05 montase POV jalan desa mati: gerobak bakso terguling kanan, warung DARMI tutup kiri, pos ronda kosong tapi kentongan bunyi sendiri, 2 lampu kuning kedip, kabut 15-25m → S06 push-in pintu kayu rumah Arga, tangan buka gembok berkarat → S07 interior gelap, senter di meja menyala sendiri kedip-kedip, tangan Arga ambil senter = kontrol pindah ke pemain → S08 POV tangan kanan minum dari gelas, tilt-up ke pantulan kaca jendela: wajah lelah Arga + beringin bergoyang di belakangnya, VO "Bu... aku mulih."
+>
+> Catatan: label S01-S08 + teks dialog tambah manual di Canva (teks AI pasti ngaco). Untuk Bing Image Creator hapus `--ar 16:9` di ujung. Untuk sheet tambah `text, watermark` ke Negative Prompt.
 ```
-Prompt:
-stylized wide drone shot moving forward to old bamboo village gate at dusk, tilted wooden sign DESA WARINGIN, two giant stylized banyan trees with big roots, fluttering white cloth, old offerings, thin fog, gloomy Javanese village, painterly illustration
-```
-
-**2. S02 - POV Boncengan Motor**
-> Keterangan (ID): POV dari sudut pandang Arga yang dibonceng tukang ojek malam hari. Terlihat punggung tukang ojek dan spion. Jalan tanah bergelombang menuju desa gelap, hanya diterangi lampu motor menembus kabut. Tukang ojek terlihat ragu karena Jumat Kliwon. Mood: canggung, dipaksa masuk.
-```
-Prompt:
-stylized first person POV from back of motorcycle at night, ojek driver back and side mirror visible, bumpy dirt road to dark foggy village, single headlight beam, twin banyan silhouette far away, painterly game illustration
-```
-
-**3. S04 - Beringin Kembar Bergerak Sendiri**
-> Keterangan (ID): Wide shot dua beringin kembar raksasa. Tidak ada angin tapi daunnya bergoyang sendiri. Kain putih diikat di akar, dupa mati berasap tipis. Arga terlihat dari belakang baru masuk frame. Musik drone rendah mulai masuk. Ini penunggu desa diperkenalkan tanpa jumpscare.
-```
-Prompt:
-stylized wide shot of twin giant banyan trees at night, leaves swaying with no wind, white cloth tied on roots, thin incense smoke, silhouette of young man from behind, dark blue night palette, mystical Javanese horror illustration
-```
-
-**4. S05 - Jalan Desa Mati**
-> Keterangan (ID): Montase POV jalan kaki menyusuri jalan utama desa. Kanan: gerobak bakso terguling. Kiri: warung kayu tutup papan WARUNG DARMI. Depan: pos ronda kosong tapi kentongan bunyi sendiri. Hanya 2 lampu jalan kuning yang kedip, sisanya mati. Kabut 15-25m. Mood: desa bungkam.
-```
-Prompt:
-stylized POV walking through dead Javanese village street at night, overturned bakso cart right side, closed wooden warung with sign WARUNG DARMI left side, empty ronda post, two flickering yellow street lamps, thin fog, painterly horror game background
-```
-
-**5. Prolog - Interior Rumah Arga**
-> Keterangan (ID): Interior rumah panggung kayu Arga yang gelap dan berdebu. Di meja ada senter yang menyala sendiri kedip-kedip, foto keluarga sobek separuh, sobekan buku bertuliskan Tumbal njaluk ganti. Dari jendela terlihat beringin bergoyang. Tutorial: ambil senter, baca buku, lihat jendela.
-```
-Prompt:
-stylized dark dusty Indonesian wooden stilt house interior, old table with flickering flashlight, torn family photo, old book paper, window showing swaying banyan tree silhouette, single flashlight beam, cozy but scary game illustration
-```
-
-**6. S08 - Signature Shot Gelas ke Muka (POV)**
-> Keterangan (ID): Shot khas sinematik. POV tangan kanan Arga ambil gelas dan minum. Kamera follow gelas turun lalu tilt-up pelan ke kaca jendela. Di pantulan kaca terlihat wajah lelah Arga, dan di belakang pantulannya ada beringin bergoyang. VO Arga: Bu... aku mulih. Mood: kangen + takut.
-```
-Prompt:
-stylized first person hand holding glass of water drinking, camera tilts up to window reflection showing tired young Indonesian man 21yo short hair, banyan tree swaying behind reflection, dim warm lamp light, emotional cinematic illustration, no photo
+Prompt (copas 1 blok):
+8-panel cinematic storyboard sheet, 4 columns x 2 rows with thin black gutters, same stylized dark Javanese horror game art in all panels, semi-realistic 3D render painterly texture, night fog, consistent 21yo Indonesian male short black hair hoodie. Panel S01 drone wide old bamboo village gate at dusk tilted wooden sign DESA WARINGIN white cloth twin banyan roots offerings. Panel S02 first person POV back of motorcycle at night ojek driver back mirror bumpy dirt road headlight beam. Panel S03 close-up feet stepping off motorcycle paying driver taillight leaving into fog. Panel S04 wide twin giant banyan trees leaves swaying no wind white cloth incense silhouette man from behind. Panel S05 POV dead village street overturned bakso cart closed WARUNG DARMI warung empty ronda post two flickering yellow lamps. Panel S06 push-in old wooden stilt house door hand unlocking rusty padlock. Panel S07 dark interior hand grabbing flickering flashlight on table torn photo beam cutting darkness. Panel S08 first person hand drinking glass of water tilting up to window reflection tired young man banyan behind, painterly illustration, cinematic lighting, mobile game concept art, NOT photorealistic, NOT photo, illustration --ar 16:9
 ```
 
 ### BAB 1 - DESA YANG BUNGKAM
