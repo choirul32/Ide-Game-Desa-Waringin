@@ -1,0 +1,1 @@
+- Prefers explanations, storyboard descriptions, and documentation in Bahasa Indonesia. Confidence: 0.9
