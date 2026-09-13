@@ -28,110 +28,65 @@ Prompt (copas 1 blok):
 8-panel cinematic storyboard sheet, 4 columns x 2 rows with thin black gutters, same stylized dark Javanese horror game art in all panels, semi-realistic 3D render painterly texture, night fog, consistent 21yo Indonesian male short black hair hoodie. Panel S01 drone wide old bamboo village gate at dusk tilted wooden sign DESA WARINGIN white cloth twin banyan roots offerings. Panel S02 first person POV back of motorcycle at night ojek driver back mirror bumpy dirt road headlight beam. Panel S03 close-up feet stepping off motorcycle paying driver taillight leaving into fog. Panel S04 wide twin giant banyan trees leaves swaying no wind white cloth incense silhouette man from behind. Panel S05 POV dead village street overturned bakso cart closed WARUNG DARMI warung empty ronda post two flickering yellow lamps. Panel S06 push-in old wooden stilt house door hand unlocking rusty padlock. Panel S07 dark interior hand grabbing flickering flashlight on table torn photo beam cutting darkness. Panel S08 first person hand drinking glass of water tilting up to window reflection tired young man banyan behind, painterly illustration, cinematic lighting, mobile game concept art, NOT photorealistic, NOT photo, illustration --ar 16:9
 ```
 
-### BAB 1 - DESA YANG BUNGKAM
+### BAB 1 - DESA YANG BUNGKAM (storyboard sheet, 1 gambar, 4 panel)
 
-**7. Warung Mbok Darmi Mati Lampu**
-> Keterangan (ID): Dalam warung kayu Mbok Darmi (60-an) yang tutup. Mbok terlihat cemas, takut gelap. Box sekring terbuka dengan kabel merah-kuning-hitam. Rak jajan berdebu, lampu minyak. Quest: cari sekring di kolong gerobak + kabel di pos ronda, susun warna dengan benar biar lampu nyala.
+> Keterangan (ID): Satu lembar 4 panel (2 kolom x 2 baris) untuk Bab 1. Panel 1 warung Mbok Darmi tutup malam hari dari luar, papan WARUNG DARMI, siluet Mbok cemas di dalam → Panel 2 dalam warung: Mbok (60-an, kebaya) takut gelap, box sekring terbuka kabel merah-kuning-hitam, rak jajan berdebu, lampu minyak → Panel 3 low-angle kolong gerobak bakso, tangan Arga ambil sekring (quest jongkok/tap Intip) → Panel 4 gudang pos ronda gelap: gembok kombinasi, buku catatan desa 10 tahun berdebu, sarang laba-laba, kentongan pecah, kunci gudang jatuh ada sparkle (Pak RT diam-diam). Isi buku: ritual nandur nyowo, bapak gantung diri, ibu naruh kembang tiap Kliwon.
+>
+> Catatan: teks papan/label tambah manual di Canva. Untuk Bing hapus `--ar 16:9` di ujung.
 ```
-Prompt:
-stylized interior of old Javanese wooden warung at night, worried old woman 60yo wearing kebaya, open fuse box with red yellow black wires, dusty snack shelf, kerosene lamp glow, warm and scary illustration
-```
-
-**8. Gudang Pos Ronda + Buku Catatan Desa**
-> Keterangan (ID): Gudang kecil gelap di pos ronda. Ada gembok kombinasi, buku catatan desa 10 tahun lalu yang berdebu, sarang laba-laba, kentongan pecah. Pak RT Samin diam-diam menjatuhkan kunci gudang. Isi buku: ritual nandur nyowo, bapak gantung diri, ibu naruh kembang tiap Kliwon.
-```
-Prompt:
-stylized small dark village storage room, old combination padlock, dusty open logbook, cobwebs, broken kentongan wood, flashlight beam lighting, mystery adventure illustration
+Prompt (copas 1 blok):
+4-panel cinematic storyboard sheet, 2 columns x 2 rows with thin black gutters, same stylized dark Javanese horror game art in all panels, semi-realistic 3D render painterly texture, night fog, consistent characters. Panel 1 exterior closed wooden warung at night sign WARUNG DARMI dark windows worried old woman silhouette inside. Panel 2 interior warung worried old Javanese woman 60yo kebaya open fuse box red yellow black wires dusty snack shelf kerosene lamp glow. Panel 3 low angle under bakso cart young man hand grabbing fuse crouching POV flashlight beam. Panel 4 small dark village storage room combination padlock dusty open logbook cobwebs broken kentongan brass key dropped with sparkle, painterly illustration, cinematic lighting, mobile game concept art, NOT photorealistic, NOT photo, illustration --ar 16:9
 ```
 
-### BAB 2 - ANAK DAN KUBURAN
+### BAB 2 - ANAK DAN KUBURAN (storyboard sheet, 1 gambar, 4 panel)
 
-**9. Kebun Pisang + Jumpscare 1 Pocong Lewat**
-> Keterangan (ID): Kebun pisang lebat malam berkabut. Ilham (9 tahun) ajak main petak umpet suara, pemain hanya ikuti suara sandal tanpa peta. Tiba-tiba pocong meluncur cepat 0,8 detik di sela pisang. Ilham malah ketawa: iku Mbah Cong, koncone aku. Dapat Gambar Sesajen. Mood: kaget tapi tidak gore.
+> Keterangan (ID): Satu lembar 4 panel (2 kolom x 2 baris) untuk Bab 2. Panel 1 kebun pisang lebat malam berkabut, Ilham (9 tahun, kurus) ajak petak umpet suara — pemain ikuti suara sandal tanpa peta → Panel 2 jumpscare J1: pocong meluncur cepat blur 0,8 detik di sela pisang, Ilham ketawa tunjuk (kaget tapi tidak gore), senter goyang → Panel 3 jumpscare J2: zoom kaca gerobak kotor, pantulan berubah 0,5 detik jadi wajah pucat Lastri menangis + bisikan "Arga... ojo digowo", Arga jongkok intip kolong, bunga Kantil putih bersinar lembut → Panel 4 top-down gambar crayon Ilham dipegang tangan kecil kotor diterangi senter: gembok + angka (KOSONGKAN angka, tulis manual 17-08-45 terbalik di Canva) dan tiga bunga + sumur + ibu digandeng.
+>
+> Catatan: angka 17-08-45 JANGAN di-generate (teks AI pasti ngaco) — tambah manual. Untuk Bing hapus `--ar 16:9` di ujung.
 ```
-Prompt:
-stylized dense banana garden at night foggy, cute scary pocong ghost sliding fast blurred between banana trees, small 9yo Indonesian boy laughing pointing, shaking flashlight beam, playful jumpscare illustration, not gore
-```
-
-**10. Jumpscare 2 - Kaca Gerobak Wajah Lastri**
-> Keterangan (ID): Arga jongkok intip kolong gerobak untuk ambil bunga Kantil liar. Kamera zoom FOV 60 ke 40 ke kaca gerobak yang kotor. Pantulan berubah 0,5 detik jadi wajah pucat Lastri menangis + bisikan Arga... ojo digowo. Kantil masuk inventory. Mood: sedih, bukan marah.
-```
-Prompt:
-stylized close-up dirty glass of Indonesian bakso cart at night, reflection of pale sad Javanese woman crying, young man crouching peering underneath, white frangipani flower glowing softly, emotional ghost illustration
+Prompt (copas 1 blok):
+4-panel cinematic storyboard sheet, 2 columns x 2 rows with thin black gutters, same stylized dark Javanese horror game art in all panels, semi-realistic 3D render painterly texture, night fog, consistent characters. Panel 1 dense banana garden at night foggy thin 9yo Indonesian boy inviting hide and seek following sandal sound. Panel 2 pocong ghost sliding fast blurred between banana trees small boy laughing pointing shaking flashlight beam playful jumpscare not gore. Panel 3 close-up dirty bakso cart glass reflection morphing into pale crying Javanese woman face young man crouching underneath white frangipani flower glowing. Panel 4 top-down child crayon drawing on crumpled paper padlock with blank numbers three flowers well mother holding hand held by small dirty hands flashlight lit, painterly illustration, cinematic lighting, mobile game concept art, NOT photorealistic, NOT photo, illustration --ar 16:9
 ```
 
-**11. Gambar Petunjuk Ilham**
-> Keterangan (ID): Properti quest penting. Dua gambar crayon anak: 1) gembok + angka 17-08-45 terbalik (dibaca di cermin jadi 54-80-71 untuk buka gudang), 2) tiga bunga + sumur + ibu digandeng (petunjuk sesajen). Digambar kasar khas anak 9 tahun, dipegang tangan kecil kotor, diterangi senter.
+### TRANSISI BAB (storyboard sheet, 1 gambar, 3 panel)
+
+> Keterangan (ID): Satu lembar 3 panel horizontal untuk transisi antar bab (masing-masing 10-15 detik, Timeline + fade, teks judul tambah manual). Panel T-Bab1: close-up foto ibu sobek di meja, match-cut ke lampu warung mati, teks BAB 1 - DESA YANG BUNGKAM → Panel T-Bab2: lampu warung nyala terang lalu flicker, cut ke langit gelap + sandal Ilham, teks BAB 2 - ANAK DAN KUBURAN → Panel T-Bab3: tangan Arga pegang gambar sesajen Ilham, zoom ke gambar sumur, match-cut ke gerbang kuburan asli malam berkabut, teks BAB 3 - WARINGIN MATI.
+>
+> Catatan: teks judul tambah manual di Canva. Untuk Bing hapus `--ar 16:9` di ujung.
 ```
-Prompt:
-stylized child crayon drawing on crumpled paper, padlock with upside down numbers 17-08-45, three flowers well and mother holding hand, held by small dirty hands, flashlight lit, top-down game item illustration
+Prompt (copas 1 blok):
+3-panel cinematic storyboard sheet, 3 columns x 1 row with thin black gutters, same stylized dark Javanese horror game art in all panels, semi-realistic 3D render painterly texture, night mood, consistent style. Panel 1 close-up torn photo of Javanese mother on wooden table match cut to dead warung lamp darkness. Panel 2 bright warung lamp flickering cutting to dark night sky small boy sandals. Panel 3 hand holding child drawing of offering and well zooming into drawing transitioning to real cemetery gate at night fog, painterly illustration, cinematic lighting, mobile game concept art, NOT photorealistic, NOT photo, illustration --ar 16:9
 ```
 
-### BAB 3 - WARINGIN MATI (KUBURAN)
+### BAB 3 - WARINGIN MATI (storyboard sheet, 1 gambar, 4 panel)
 
-**12. Gerbang Kuburan + Sumur Tua**
-> Keterangan (ID): Area terlarang belakang desa tengah malam. Gerbang kuburan tua, nisan miring, pohon kamboja rontok, rumpun bambu kuning merunduk jadi gapura alami. Di tengah ada sumur tua ditutup papan + rantai, dikelilingi kebun pisang yang buahnya busuk di pohon. Asap kemenyan tipis + kabut tebal. Mood: final dungeon.
+> Keterangan (ID): Satu lembar 4 panel (2 kolom x 2 baris) untuk Bab 3. Panel 1 gerbang kuburan tua tengah malam: nisan miring, kamboja rontok, bambu kuning merunduk jadi gapura, sumur tua papan + rantai dikelilingi pisang busuk, kabut tebal + asap kemenyan → Panel 2 Mbah Kunci (80-an, buta satu mata) duduk di sumur, lampu minyak api biru, sesajen Kantil + Kenanga + Mawar Merah + Dupa + Foto Ibu, akar beringin seperti tangan → Panel 3 makam kosong tanpa nama, Mawar Merah di atasnya, nama ARGA muncul pelan di nisan + slowmo + teks OJO NOLEH, senter kedip (trigger kejar) → Panel 4 sekuen kejar: POV lari motion blur, pocong melompat di belakang, tangan lempar Beras Kuning, pertigaan KIRI sumur / KANAN mushola, kamera shake + vignette.
+>
+> Catatan: nama ARGA + teks OJO NOLEH tambah manual di Canva (teks AI pasti ngaco). Untuk Bing hapus `--ar 16:9` di ujung.
 ```
-Prompt:
-stylized old Javanese cemetery gate at midnight, tilted gravestones, frangipani petals falling, yellow bamboo arch, old well covered with boards and chains in center, rotten banana trees around, heavy fog incense smoke, dark fantasy illustration
-```
-
-**13. Mbah Kunci di Sumur**
-> Keterangan (ID): Mbah Kunci (80-an), juru kunci buta satu mata, duduk di dekat sumur diterangi lampu minyak api biru. Di depannya sesajen lengkap: Kantil, Kenanga, Mawar Merah, Dupa, Foto Ibu. Akar beringin melilit seperti tangan. Dialog lore penuh terbuka setelah sesajen benar. Mood: bijak tapi menekan.
-```
-Prompt:
-stylized 80yo Javanese grave keeper blind in one eye sitting by old well, blue flame kerosene lamp, offering of white kantil kenanga red rose incense old photo, giant banyan roots like hands, wise scary shaman illustration
+Prompt (copas 1 blok):
+4-panel cinematic storyboard sheet, 2 columns x 2 rows with thin black gutters, same stylized dark Javanese horror game art in all panels, semi-realistic 3D render painterly texture, midnight fog, consistent characters. Panel 1 old Javanese cemetery gate midnight tilted gravestones frangipani petals yellow bamboo arch old well boards chains rotten banana trees incense smoke. Panel 2 80yo Javanese grave keeper blind one eye sitting by well blue flame lamp offering kantil kenanga red rose incense old photo giant banyan roots like hands. Panel 3 empty grave red rose on top blank stone petals flickering flashlight dread slow motion. Panel 4 night cemetery chase young man running motion blur throwing yellow rice behind at jumping pocong fork path well and small mosque camera shake vignette, painterly illustration, cinematic lighting, mobile game concept art, NOT photorealistic, NOT photo, illustration --ar 16:9
 ```
 
-**14. Makam Tanpa Nama ARGA**
-> Keterangan (ID): Makam kosong tanpa nama. Saat Arga ambil Mawar Merah di atasnya, nama ARGA muncul pelan di nisan + slowmo + teks OJO NOLEH! Senter kedip, pocong muncul di belakang. Ini trigger sekuen kejar 60-90 detik. Mood: plot twist, kamu yang ditagih.
+### FINALE & ENDING (storyboard sheet, 1 gambar, 4 panel)
+
+> Keterangan (ID): Satu lembar 4 panel (2 kolom x 2 baris) untuk finale + 2 ending. Panel F1: crane-up 5m, sesajen api biru di bawah, Kuntilanak/Lastri berdiri di pohon pisang lalu terbang ke beringin kembar, tangis + angin → Panel F2: ruang akar sumur berdinding akar hidup, radio tua menyala adzan kepotong, foto kecil Arga, bercak darah akar (Senter UV), sempit diterangi senter → Panel E-A Bakar: close-up tangan tuang minyak ke akar + korek bloom terang, wide api menyebar pisang roboh, pagi sumur kering sawah mati, abu dalam kain putih, teks "Desa urip, ning atine mati" → Panel E-B Ganti: close-up foto Arga di sesajen, turun sumur fade hitam, kuburan pagi makam baru ARGA + kembang fresh, Ilham jalan menjauh, teks "Ibuku mulih, aku sing njogo wit."
+>
+> Catatan: teks ending tambah manual di Canva. Untuk Bing hapus `--ar 16:9` di ujung.
 ```
-Prompt:
-stylized empty grave in cemetery at night, red rose on top, name ARGA slowly appearing on stone, falling petals, flickering flashlight, dread slow motion moment, stylized horror illustration
+Prompt (copas 1 blok):
+4-panel cinematic storyboard sheet, 2 columns x 2 rows with thin black gutters, same stylized dark Javanese horror game art in all panels, semi-realistic 3D render painterly texture, consistent characters. Panel F1 crane-up female ghost white long hair standing on banana tree flying to giant twin banyan trees blue flame offering below midnight fog wind petals. Panel F2 underground root chamber old glowing radio small childhood photo living roots walls soft UV light Reveal claustrophobic. Panel E-A hand pouring kerosene to banyan roots lighting match bright bloom wide fire spreading night village morning ash white cloth dry well. Panel E-B morning cemetery fresh grave fresh flowers small boy walking away mist sunrise peaceful melancholic, painterly illustration, cinematic lighting, mobile game concept art, NOT photorealistic, NOT photo, illustration --ar 16:9
 ```
 
-**15. Sekuen Kejar Mbah Cong**
-> Keterangan (ID): Gameplay lari auto-lari. Pocong melompat mengejar dari belakang. Pemain belok kiri-kanan pakai joystick, lempar Beras Kuning biar pocong berhenti ngitung siji... loro... telu... (dapat 5 detik). Pertigaan: KIRI sumur pendek-buntu untuk sembunyi, KANAN mushola jauh-aman. Kamera shake + vignette menutup.
-```
-Prompt:
-stylized chase scene in night cemetery, jumping pocong chasing behind, young man running POV motion blur, throwing yellow rice, fork path left to well right to small mosque, dynamic action horror illustration, camera shake feel
-```
+### KARAKTER (portrait pack, 1 gambar isi 5)
 
-### FINALE & ENDING
+> Keterangan (ID): Satu lembar 5 portrait setengah badan untuk UI dialog Meet and Talk, gaya SAMA semua: Arga 21 lelah hoodie bawa senter takut tapi keras kepala → Mbok Darmi 60 kebaya nangis → Pak RT Samin 50 peci senyum fake ramah berlebihan → Ilham 9 kurus diam pegang gambar → Mbah Kunci 80 keriput buta satu mata. Background gelap + rim light.
+>
+> Tips konsistensi: generate Arga DULU satuan sebagai anchor (`tired young Indonesian man 21yo short black hair hoodie holding flashlight, dark background rim light, mobile game portrait`), lalu generate 4 NPC lain dengan prompt yang menyebut gaya yang sama. Kalau wajah ngaco, generate ulang per karakter satuan — jangan paksa 1 sheet.
+```
+Prompt (copas 1 blok, coba sheet dulu):
+5-character portrait set sheet, consistent stylized dark Javanese horror game art, semi-realistic 3D render painterly texture, dark background rim light, mobile game dialog portrait. 1 tired young Indonesian man 21yo short black hair hoodie holding flashlight stubborn scared. 2 old Javanese woman 60yo kebaya crying. 3 smiling village chief 50yo peci fake friendly. 4 thin silent boy 9yo holding drawing. 5 old shaman 80yo blind one eye wrinkled, painterly illustration, NOT photorealistic, NOT photo, illustration --ar 16:9
 
-**16. F1 - Kuntilanak Terbang ke Beringin**
-> Keterangan (ID): Sinematik finale. Setelah sesajen api biru menyala + angin + tangis, kamera crane-up naik 5m. Kuntilanak / Lastri berdiri di pohon pisang lalu terbang cepat ke beringin kembar. Tangis suara Lastri + angin kencang. Pemain dikejar bayangan ke sumur lalu turun ke ruang akar.
-```
-Prompt:
-stylized crane-up shot, female ghost in white long hair standing on banana tree then flying to giant twin banyan trees, blue flame offering below, midnight fog wind petals, epic Javanese horror finale illustration
-```
-
-**17. F2 - Ruang Akar Sumur**
-> Keterangan (ID): Ruang bawah sumur berdinding akar hidup. Ada radio tua menyala sendiri bunyi adzan kepotong, foto kecil Arga waktu kecil, bercak darah akar (terlihat jelas pakai Senter UV). Sempit, pengap, hanya diterangi senter + radio. Tempat pilihan ending.
-```
-Prompt:
-stylized underground root chamber below well, old glowing radio, small childhood photo, living roots as walls, soft UV light Reveal, claustrophobic cozy scary illustration
-```
-
-**18. Ending A - Bakar Beringin**
-> Keterangan (ID): Ending bakar. Close-up tangan Arga tuang minyak tanah ke akar lalu nyalakan korek (bloom terang). Wide shot api menyebar, pisang roboh, jeritan hilang. Pagi harinya sumur kering, sawah mati. Arga pulang bawa abu dalam kain putih. Teks: Desa urip, ning atine mati. Mood: menang tapi hampa.
-```
-Prompt:
-stylized hand pouring kerosene to banyan roots then lighting match bright bloom, wide fire spreading in night village, morning after ash in white cloth dry well dead rice fields, sad hopeful illustration
-```
-
-**19. Ending B - Gantikan Ibu**
-> Keterangan (ID): Ending ganti. Close-up foto Arga dipasang di sesajen, kamera turun ke sumur gelap fade hitam 3 detik. Buka di kuburan pagi: ada makam baru ARGA dengan kembang fresh tiap Jumat, Ilham jalan menjauh. Suara Mbok manggil. Teks: Ibuku mulih, aku sing njogo wit. Mood: haru, melancholy.
-```
-Prompt:
-stylized morning Javanese cemetery, fresh grave with name ARGA and fresh flowers, small boy walking away in mist sunrise, peaceful melancholic illustration, soft morning light
-```
-
-### KARAKTER (untuk UI Dialog)
-
-**20. Portrait Pack - 5 NPC**
-> Keterangan (ID): Potrait setengah badan untuk UI dialog Meet and Talk. 1) Arga 21 lelah, hoodie, bawa senter, takut tapi keras kepala. 2) Mbok Darmi 60 kebaya, nangis. 3) Pak RT Samin 50 peci, senyum fake ramah berlebihan. 4) Ilham 9 kurus diam, pegang gambar. 5) Mbah Kunci 80 keriput buta satu mata. Background gelap + rim light. Gaya sama semua biar konsisten.
-```
-Prompt:
-stylized character portrait set, tired young Indonesian man 21yo hoodie flashlight, old Javanese woman 60yo kebaya crying, smiling village chief 50yo peci fake friendly, thin silent boy 9yo holding drawing, old shaman 80yo blind one eye wrinkled, dark background rim light, consistent mobile game portrait illustration, set of 5
+Prompt anchor Arga (satuan, kalau sheet gagal):
+tired young Indonesian man 21yo short black hair wearing hoodie holding flashlight, stubborn scared expression, dark background rim light, stylized mobile game dialog portrait, painterly illustration, NOT photorealistic, NOT photo --ar 1:1
 ```
