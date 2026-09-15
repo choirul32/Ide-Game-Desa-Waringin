@@ -1,0 +1,31 @@
+# Unity .gitignore (UFO Abduction + Desa Waringin)
+# Hasil generate lokal — JANGAN commit
+Library/
+Temp/
+Logs/
+Builds/
+UserSettings/
+
+# File solusi/IDE — generate ulang otomatis
+*.csproj
+*.sln
+*.user
+*.userprefs
+.vs/
+.idea/
+*.pidb.meta
+*.pdb.meta
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Crash log
+sysinfo.txt
+
+# Asset besar pakai Git LFS (aktifkan: git lfs install && git lfs track "*.fbx" dst)
+# *.fbx filter=lfs diff=lfs merge=lfs -text
+# *.png filter=lfs diff=lfs merge=lfs -text
+# *.mp3 filter=lfs diff=lfs merge=lfs -text
+# *.wav filter=lfs diff=lfs merge=lfs -text

@@ -99,3 +99,23 @@ public class Tuning : ScriptableObject {
 - Singleton selain GameManager. Sistem akses via event atau Inspector reference.
 - Coroutine untuk timer gameplay — pakai `stateTimer += Time.deltaTime` (jelas, bisa pause).
 - Update() kosong, Debug.Log di build, SerializeField yang tidak dipakai.
+
+## 6. Aturan Git Unity
+- `.gitignore` standar Unity wajib ada di root (lihat file `.gitignore` repo ini). Intinya: `Library/ Temp/ Logs/ Builds/ *.csproj *.sln .vs/` TIDAK di-commit. Pakai Git LFS untuk `.fbx .png .mp3 .wav` (`git lfs track`).
+- Commit per 1 task DONE, message pakai ID: `M1-06: human panic AI` — bukan "update" / "fix".
+- Jangan commit `Library/` (ukuran GB, hasil generate lokal). Clone baru = buka Unity, Library generate sendiri.
+- Scene conflict: solo = tidak masalah, tapi jangan edit scene yang sama di 2 branch.
+
+## 7. Disiplin Prefab & Scene
+- Edit HANYA via prefab (klik prefab → Open), bukan instance di scene. Instance override = dilarang kecuali posisi.
+- Dilarang duplikat prefab (`Human2`, `Human_final`, `Human_fix`). Varian = Prefab Variant resmi.
+- Scene utama cuma 1: `Map-80x80`. Sisanya `Sandbox_*` (test) dan TIDAK masuk Build Settings.
+
+## 8. GDD Dulu, Kode Kemudian
+- Fitur baru TIDAK boleh dikode sebelum tertulis di GDD + Tasks + punya ID task. Ide dadakan → tulis ke Backlog Tasks.md dulu, dikode kalau M3 selesai.
+- Perubahan angka desain (speed, damage, poin) = edit Tuning.asset + catat di commit message, bukan edit kode diam-diam.
+
+## 9. Aturan Import Aset
+- Tekstur max 1024, kompresi ASTC (Android). Audio mono, <44kHz. Model: cek scale (1 unit = 1m), Read/Write OFF, 1 material per tipe agen.
+- Aset yang tidak lolos cek ini DITOLAK saat import — dioptimasi di awal, bukan belakangan.
+- Lisensi: catat sumber + lisensi tiap aset di `ufo-abduction/UFO-Abduction-Assets.md` (Asset Store EULA / CC0 + kredit).
